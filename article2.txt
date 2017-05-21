@@ -15,3 +15,8 @@
 /cc @jesseplusplus for clarification on this logic
 @Упоминать можно не только разработчиков, но и команды. То же относится к причинам, что и зачем вы хотите с ними обсудить:
 /cc @github/security, any concerns with this approach?
+
+Комментарий: 
+	Поленая. статья, если хочешь за 10 минут разобраться с pull request.
+
+Ссылка на ресурс: https://habrahabr.ru/company/Voximplant/blog/279703/
