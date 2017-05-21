@@ -31,3 +31,5 @@
 
 
 Стаття була взята за адресою: https://techtoday.in.ua/news/chomu-mi-vibirayemo-slabki-paroli-tse-psihologichne-66389.html
+
+Pull request.
